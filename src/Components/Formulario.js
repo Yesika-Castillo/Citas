@@ -11,7 +11,7 @@ const Formulario = () => {
           type="text"
           name="Mascota"
           className="u-full-width"
-          placeholder="Nombre Mascota"
+          placeholder="Nombre mascota"
         />
 
         <label>Nombre dueño</label>
